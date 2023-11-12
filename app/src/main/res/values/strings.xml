@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProyectoDomingo</string>
+    <string name="txtUser">Ingrese el Usuario</string>
+    <string name="txtPassword">Ingrese la Contraseña</string>
+    <string name="btnIniciar">Iniciar Sesion</string>
+    <string name="btnRegistrar">Registrarse</string>
+    <string name="txt_nombre">Nombre de la mascota</string>
+    <string name="txt_edad">Edad de la mascota</string>
+    <string name="txt_raza">Raza de la mascota</string>
+    <string name="txt_telefono">Telefono de Contacto</string>
+    <string name="txt_tipoDeAnimal">Tipo de mascota</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>
